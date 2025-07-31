@@ -9,6 +9,9 @@
 - Fog-edge deployment ensures lightweight, privacy-preserving inference at the edge
 - Integrated with Flask + Streamlit for interactive and seamless deployment
 
+## deployment 
+<img width="1446" height="768" alt="image" src="https://github.com/user-attachments/assets/bce48cbe-9f3a-4734-b952-8442d861695c" />
+
 
 ## 👩‍💻 Author
 - Dedeepya Penumaka
